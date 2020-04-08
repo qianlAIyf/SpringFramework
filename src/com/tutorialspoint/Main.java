@@ -10,5 +10,4 @@ public class Main {
 		HelloWorld helloWorld = (HelloWorld) content.getBean("HelloWorld");
 		helloWorld.getMessage();
 	}
-
 }
